@@ -1,4 +1,4 @@
-**Resumo:**  
+**Comentário:**  
 
 Programação e engenharia de software envolvem três aspectos fundamentais: tempo, escala e escolhas estratégicas. Na engenharia de software, há uma preocupação maior com o tempo e a necessidade de mudanças futuras, além da eficiência e escalabilidade do software e da organização que o desenvolve. Engenheiros de software precisam planejar para o crescimento contínuo, tanto do sistema quanto da equipe de desenvolvimento, adotando práticas como modularidade, automação de processos e documentação robusta para facilitar adaptações e manutenções ao longo do tempo.  
 
