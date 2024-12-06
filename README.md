@@ -1,4 +1,4 @@
-**Comentário:**  
+- **1º) Comentário:**  
 
 Programação e engenharia de software envolvem três aspectos fundamentais: tempo, escala e escolhas estratégicas. Na engenharia de software, há uma preocupação maior com o tempo e a necessidade de mudanças futuras, além da eficiência e escalabilidade do software e da organização que o desenvolve. Engenheiros de software precisam planejar para o crescimento contínuo, tanto do sistema quanto da equipe de desenvolvimento, adotando práticas como modularidade, automação de processos e documentação robusta para facilitar adaptações e manutenções ao longo do tempo.  
 
@@ -8,12 +8,12 @@ Por fim, enquanto a programação pode ser vista como a implementação de solu�
 
 **Referências:**
 
-Livro: "Software Engineering at Google"
+Livro: **"Software Engineering at Google"**
 Este livro explora práticas modernas de engenharia de software, incluindo gestão de mudanças, escalabilidade e tomada de decisões complexas em organizações de grande porte.
 
-Artigo: "Programming vs. Software Engineering: What's the Difference?" - Medium
+Artigo: **"Programming vs. Software Engineering: What's the Difference?"** - Medium
 Disponível online, este artigo explica as diferenças entre as práticas de programação e os princípios da engenharia de software, destacando o impacto do tempo e da escala.
 
-Conferência: International Conference on Software Engineering (ICSE)
+Conferência: **International Conference on Software Engineering (ICSE)**
 Este evento reúne especialistas para discutir tendências e desafios da engenharia de software, incluindo tópicos relacionados à escalabilidade e à gestão de trade-offs.
 
